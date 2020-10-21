@@ -1,0 +1,24 @@
+{
+  "mark": "bar",
+  "encoding": {
+    "x": {"field": "week", "type": "ordinal", "sort": "x","axis": {"labelAngle": 0}},
+    "y": {"field": "n", "type": "quantitative"}
+  },
+  "data": {
+    "values": [
+      {"week": 32,"n":9},
+      {"week": 33,"n":1},
+      {"week": 34,"n":5},
+      {"week": 35,"n":1},
+      {"week": 36,"n":2},
+      {"week": 37,"n":2},
+      {"week": 38,"n":5},
+      {"week": 39,"n":3},
+      {"week": 40,"n":6},
+      {"week": 41,"n":9},
+      {"week": 42,"n":17}
+    ]
+  },
+  "width": 800,
+  "height": 400
+}

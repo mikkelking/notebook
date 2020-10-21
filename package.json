@@ -1,0 +1,14 @@
+{
+  "name": "342f834964379b9c",
+  "main": "342f834964379b9c@574.js",
+  "version": "574.0.0",
+  "homepage": "https://observablehq.com/d/342f834964379b9c",
+  "author": {
+    "name": "Mike King",
+    "url": "https://observablehq.com/@mikkelking"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
